@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **React in Rails**
 
-- 📫 Contact me! **mew.chayutaphong@gmail.com**
+- 📫 Contact me! **kl121@ic.ac.uk**
+
+- 😃 My <a href="https://www.kandanai.me> portfolio </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
