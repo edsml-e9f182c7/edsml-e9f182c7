@@ -25,7 +25,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="mewband12's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edsml-e9f182c7&theme=radical&show_icons=true&hide_border=true" />
+  <img align="left" alt="mewband12's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=edsml-kl121&theme=radical&show_icons=true&hide_border=true" />
 <!--   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mewband12&theme=radical) -->
 </details>
 
