@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Mew</h1>
 <h3 align="left">A developer from Thailand</h3>
 
-- 🔭 I’m currently working on <a href="https://www.barcsnap.com/" target="_blank">barcSnap</a> and <a href="https://github.com/mewband12/RevEd" target="_blank">RevEd</a>
+- 🔭 I’m currently working on <a href="https://github.com/mewband12/RevEd" target="_blank">RevEd</a> on another github username @mewband12
 
-- 🌱 I’m currently learning **React in Rails**
+- 🌱 I’m currently learning **React in Rails** and **Machine Learning**
 
 - 📫 Contact me! **kl121@ic.ac.uk**
 
