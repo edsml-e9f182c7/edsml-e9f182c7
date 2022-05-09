@@ -3,7 +3,7 @@
 <h1 align="left">Hi 👋, I'm Mew</h1>
 <h3 align="left">A developer from Thailand</h3>
 
-<h3>⚠️ I have two github accounts and I am currently most active in this one. For old commits please check out: <a href="https://github.com/mewband12/RevEd" target="_blank">RevEd</a> on another github username <a href="https://github.com/mewband12/">mewband12</a></h3>
+<h3>⚠️ I have two github accounts and I am currently most active in this one. For old commits please check out: my other github username <a href="https://github.com/mewband12/">mewband12</a></h3>
 
 <!-- - 🌱 I’m currently learning **React in Rails** and **Machine Learning**
 
