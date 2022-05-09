@@ -1,7 +1,6 @@
 
 
 <h1 align="left">Hi 👋, I'm Mew</h1>
-<h3 align="left">A developer from Thailand</h3>
 
 <h1>⚠️ I have two github accounts and I am currently most active in this one. For old commits please check out: my other github username <a href="https://github.com/mewband12/">mewband12</a></h1>
 
